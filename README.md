@@ -1,4 +1,4 @@
-# expo-firebase-auth-starter
+# Firebase Auth with Expo React Native
 
 ## Starter project for using:
 - React Native
@@ -7,7 +7,7 @@
 
 ## Setup:
 
-- Create a `constants/ApiKeys.js` file and put your actual firebase config values:
+- Open `constants/ApiKeys.js` file and update these with your actual firebase config values:
 ```
 export default {
   FirebaseConfig: {
